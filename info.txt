@@ -1,7 +1,0 @@
-User name: exam (Login name: exam)
-Current Shell: /bin/bash
-Home Directory: /home/exam
-Your O/s Type: linux-gnu
-PATH: /usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
-Current directory: /home/exam/C4B15
-Currently Logged: 2 user(s)
