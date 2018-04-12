@@ -1,0 +1,6 @@
+harry
+ron
+fred
+hermione
+mary
+george

@@ -1,0 +1,11 @@
+Package Management:
+
+1.Installing Packages
+  sudo apt-get install package-name
+2.Updating Packages
+  sudo apt-get update        # Fetchs list of available updates
+  sudo apt-get upgrade       # Strictly upgrades the current packages
+  sudo apt-get dist-upgrade  # Installs new updates
+3.Removing Packages
+  sudo apt-get remove package-name  # To remove the package
+  sudo apt-get purge package-name   # To remove package and all its configuration files
