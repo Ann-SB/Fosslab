@@ -14,9 +14,9 @@ Q17: Screenshot of installing a software package.
 Q18: Network configuration task
 CGPA: CGPA of semesters 1 and 2 calculated.
 Additional tasks completed:
-  CGPA
-  Network configuration
-  Package management
-  Perl
-  LAMP stack set up
-  Kernel compilation
+  CGPA.
+  Network configuration.
+  Package management.
+  Perl.
+  LAMP stack set up.
+  Kernel compilation.
